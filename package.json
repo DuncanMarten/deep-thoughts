@@ -24,5 +24,8 @@
   "homepage": "https://github.com/DuncanMarten/deep-thoughts#readme",
   "devDependencies": {
     "concurrently": "^5.3.0"
+  },
+  "dependencies": {
+    "if-env": "^1.0.4"
   }
 }
